@@ -23,15 +23,15 @@ type ColorScheme = {
 export const colors: ColorScheme = {
   primary: {
     light: {
-      DEFAULT: '#4338CA', // indigo-700
-      hover: '#3730A3',   // indigo-800
+      DEFAULT: '#1fa9a7', // indigo-700
+      hover: '#1fa9a7',   // indigo-800
       active: '#312E81',  // indigo-900
       bg: '#EEF2FF',      // indigo-50
       text: '#4338CA',    // indigo-700
     },
     dark: {
-      DEFAULT: '#6366F1', // indigo-500
-      hover: '#818CF8',   // indigo-400
+      DEFAULT: '#1fa9a7', // indigo-500
+      hover: '#1fa9a7',   // indigo-400
       active: '#A5B4FC',  // indigo-300
       bg: '#1E293B',      // slate-800
       text: '#E0E7FF',    // indigo-100
@@ -40,7 +40,7 @@ export const colors: ColorScheme = {
   secondary: {
     light: {
       DEFAULT: '#4B5563', // gray-600
-      hover: '#374151',   // gray-700
+      hover: '#1fa9a7',   // gray-700
       active: '#1F2937',  // gray-800
       bg: '#F3F4F6',      // gray-100
       text: '#4B5563',    // gray-600

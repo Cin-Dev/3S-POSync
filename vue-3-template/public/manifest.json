@@ -1,11 +1,11 @@
 {
-  "name": "Company Name",
+  "name": "3S POSync",
   "short_name": "Vue Template",
   "description": "For development use",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#4338CA",
+  "theme_color": "#1fa9a7",
   "orientation": "portrait-primary",
   "icons": [
     {

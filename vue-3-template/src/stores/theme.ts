@@ -5,7 +5,7 @@ const THEME_KEY = 'theme-preference'
 
 export const useThemeStore = defineStore('theme', () => {
   const isDarkMode = ref(false)
-  const themeColor = ref(process.env.VUE_APP_THEME_COLOR || '#4338CA')
+  const themeColor = ref(process.env.VUE_APP_THEME_COLOR || '#1fa9a7')
 
   function toggleTheme() {
     isDarkMode.value = !isDarkMode.value

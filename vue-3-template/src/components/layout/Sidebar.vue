@@ -69,7 +69,7 @@
         <div class="flex items-center justify-center space-x-2 text-xs text-secondary-text dark:text-secondary-dark-text">
           <span>© {{ new Date().getFullYear() }}</span>
           <span class="w-1 h-1 rounded-full bg-secondary-bg dark:bg-secondary-dark-bg"></span>
-          <span>Developed by Proweaver</span>
+          <span>CinDev</span>
         </div>
       </div>
     </div>
