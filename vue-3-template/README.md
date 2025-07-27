@@ -1,5 +1,3 @@
-# SP Team Vue Template
-
 A clean Vue 3 template with TypeScript, Vue Router, Pinia, and Tailwind CSS, featuring a modern layout with responsive sidebar and dark mode support.
 
 ## Project Setup
